@@ -38,6 +38,7 @@ An agentic workflow architecture that:
 - Scales across teams with mixed seniority
 
 It turns AI from a writing assistant into a structured marketing system.
+It also acknowledges how modern AI systems retrieve and synthesize information — and structures content accordingly.
 
 ---
 
@@ -57,7 +58,7 @@ The system consists of:
 
 - Core control agents
 - Motion engines
-- Execution wrappers
+- Execution wrappers (copy, social, seo, cro, aeo)
 - Structured SOP templates
 
 Everything lives under `/agents`.
